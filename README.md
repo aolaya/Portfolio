@@ -1,1 +1,1 @@
-# data_science_portfolio
+# To add details on each project
